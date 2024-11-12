@@ -1,7 +1,7 @@
 # FYI if any problem occur please contact with me immediately.
 
 ## Clone project to your device:
-1. git clone https://github.com/way-tech/frontend-repo.git
+1. git clone [repo-url]
 
 ## Run project:
 1. npm install
